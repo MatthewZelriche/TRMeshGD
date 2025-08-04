@@ -1,0 +1,6 @@
+[submodule "vendor/TRMesh"]
+	path = vendor/TRMesh
+	url = https://github.com/MatthewZelriche/TRMesh.git
+[submodule "vendor/godot-cpp"]
+	path = vendor/godot-cpp
+	url = https://github.com/godotengine/godot-cpp.git
